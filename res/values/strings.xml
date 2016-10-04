@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My App</string>
+    <string name="main_activ_name">My Activity</string>
+    <string name="saludo">Hello World!!</string>
+    <string name="aviso">Push me</string>
+    <string name="quehago">Write a message</string>
+
+</resources>
